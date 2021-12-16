@@ -1,0 +1,8 @@
+Command to compile the program:
+
+gcc -o main src/main.c
+
+Command to execute the program
+
+./main
+
